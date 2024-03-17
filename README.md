@@ -1,7 +1,9 @@
 Welcome and **< TRANSACTION START >**, I'm @SarenDev. 
-- I work on Python, Java, and (somewhat) C# projects, while actively learning said languages.
-- Not quite ready to work on anything big, but random passion projects are game
-- I run a proggress log of sorts over on my ~~[Twitter](https://twitter.com/SarenDevX)~~[Mastodon](https://hachyderm.io/@SarenDev). Come stop by if you went through the trouble of reading this!
+
+- I work on Python, C#, and (somewhat) Java projects while actively learning said languages.
+- The developer of [TrackLab/ViRe](https://github.com/TrackLab/ViRe) and other small passion projects
+- Currently between social networks. Maybe my links go somewhere in the not-so-distant-future
+<!-- - I run a progress log of sorts over on my ~~[Twitter](https://twitter.com/SarenDevX)~~[Mastodon](https://hachyderm.io/@SarenDev). Come stop by if you went through the trouble of reading this! -->
 
 *Thanks for visiting and see you on the digital wave!* **< TRANSACTION END >**
 
